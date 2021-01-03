@@ -1,0 +1,10 @@
+int fun(int a, int b)
+{
+return 6;
+}
+int main()
+{       
+       int a,b;
+	int c=fun(a,b);
+out c;
+ } 

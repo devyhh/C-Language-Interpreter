@@ -1,0 +1,152 @@
+﻿  stringop.cpp
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\memory.h(17): warning C4091: “typedef ”: 没有声明变量时忽略“pro”的左侧
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\memory.h(32): warning C4091: “typedef ”: 没有声明变量时忽略“v”的左侧
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\memory.h(44): warning C4091: “typedef ”: 没有声明变量时忽略“function”的左侧
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\stringop.cpp(23): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\stringop.cpp(35): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\stringop.cpp(55): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\stringop.cpp(67): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\stringop.cpp(79): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\stringop.cpp(84): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\stringop.cpp(96): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\stringop.cpp(105): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\stringop.cpp(122): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\stringop.cpp(130): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\stringop.cpp(152): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\stringop.cpp(164): warning C4018: “<”: 有符号/无符号不匹配
+  scaner.cpp
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\memory.h(17): warning C4091: “typedef ”: 没有声明变量时忽略“pro”的左侧
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\memory.h(32): warning C4091: “typedef ”: 没有声明变量时忽略“v”的左侧
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\memory.h(44): warning C4091: “typedef ”: 没有声明变量时忽略“function”的左侧
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\scaner.cpp(100): warning C4305: “*=”: 从“double”到“float”截断
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\scaner.cpp(289): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+  Ret.cpp
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\memory.h(17): warning C4091: “typedef ”: 没有声明变量时忽略“pro”的左侧
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\memory.h(32): warning C4091: “typedef ”: 没有声明变量时忽略“v”的左侧
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\memory.h(44): warning C4091: “typedef ”: 没有声明变量时忽略“function”的左侧
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\ret.cpp(46): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\ret.cpp(52): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\ret.cpp(9): warning C4101: “tp”: 未引用的局部变量
+  Relatee.cpp
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\memory.h(17): warning C4091: “typedef ”: 没有声明变量时忽略“pro”的左侧
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\memory.h(32): warning C4091: “typedef ”: 没有声明变量时忽略“v”的左侧
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\memory.h(44): warning C4091: “typedef ”: 没有声明变量时忽略“function”的左侧
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\relatee.cpp(9): warning C4101: “key”: 未引用的局部变量
+  Outputt.cpp
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\memory.h(17): warning C4091: “typedef ”: 没有声明变量时忽略“pro”的左侧
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\memory.h(32): warning C4091: “typedef ”: 没有声明变量时忽略“v”的左侧
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\memory.h(44): warning C4091: “typedef ”: 没有声明变量时忽略“function”的左侧
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\outputt.cpp(18): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\outputt.cpp(38): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\outputt.cpp(73): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\outputt.cpp(86): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\outputt.cpp(150): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\outputt.cpp(163): warning C4018: “<”: 有符号/无符号不匹配
+  main.cpp
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\memory.h(17): warning C4091: “typedef ”: 没有声明变量时忽略“pro”的左侧
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\memory.h(32): warning C4091: “typedef ”: 没有声明变量时忽略“v”的左侧
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\memory.h(44): warning C4091: “typedef ”: 没有声明变量时忽略“function”的左侧
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\main.cpp(63): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\main.cpp(14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\main.cpp(31): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+  Logicc.cpp
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\memory.h(17): warning C4091: “typedef ”: 没有声明变量时忽略“pro”的左侧
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\memory.h(32): warning C4091: “typedef ”: 没有声明变量时忽略“v”的左侧
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\memory.h(44): warning C4091: “typedef ”: 没有声明变量时忽略“function”的左侧
+  iputt.cpp
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\memory.h(17): warning C4091: “typedef ”: 没有声明变量时忽略“pro”的左侧
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\memory.h(32): warning C4091: “typedef ”: 没有声明变量时忽略“v”的左侧
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\memory.h(44): warning C4091: “typedef ”: 没有声明变量时忽略“function”的左侧
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\iputt.cpp(35): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\iputt.cpp(57): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\iputt.cpp(89): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\iputt.cpp(11): warning C4101: “l”: 未引用的局部变量
+  glob.cpp
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\memory.h(17): warning C4091: “typedef ”: 没有声明变量时忽略“pro”的左侧
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\memory.h(32): warning C4091: “typedef ”: 没有声明变量时忽略“v”的左侧
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\memory.h(44): warning C4091: “typedef ”: 没有声明变量时忽略“function”的左侧
+  funif  while do until.cpp
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\memory.h(17): warning C4091: “typedef ”: 没有声明变量时忽略“pro”的左侧
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\memory.h(32): warning C4091: “typedef ”: 没有声明变量时忽略“v”的左侧
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\memory.h(44): warning C4091: “typedef ”: 没有声明变量时忽略“function”的左侧
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\funif  while do until.cpp(63): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\funif  while do until.cpp(79): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\funif  while do until.cpp(100): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\funif  while do until.cpp(142): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\funif  while do until.cpp(512): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\funif  while do until.cpp(847): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\funif  while do until.cpp(1179): warning C4018: “<”: 有符号/无符号不匹配
+  Fundeal.cpp
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\memory.h(17): warning C4091: “typedef ”: 没有声明变量时忽略“pro”的左侧
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\memory.h(32): warning C4091: “typedef ”: 没有声明变量时忽略“v”的左侧
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\memory.h(44): warning C4091: “typedef ”: 没有声明变量时忽略“function”的左侧
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\fundeal.cpp(35): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\fundeal.cpp(14): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\fundeal.cpp(26): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+  Fun.cpp
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\memory.h(17): warning C4091: “typedef ”: 没有声明变量时忽略“pro”的左侧
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\memory.h(32): warning C4091: “typedef ”: 没有声明变量时忽略“v”的左侧
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\memory.h(44): warning C4091: “typedef ”: 没有声明变量时忽略“function”的左侧
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\fun.cpp(51): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\fun.cpp(61): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\fun.cpp(106): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+  Factorization.cpp
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\memory.h(17): warning C4091: “typedef ”: 没有声明变量时忽略“pro”的左侧
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\memory.h(32): warning C4091: “typedef ”: 没有声明变量时忽略“v”的左侧
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\memory.h(44): warning C4091: “typedef ”: 没有声明变量时忽略“function”的左侧
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\factorization.cpp(61): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\factorization.cpp(85): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\factorization.cpp(75): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+  Errors.cpp
+  Equall.cpp
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\memory.h(17): warning C4091: “typedef ”: 没有声明变量时忽略“pro”的左侧
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\memory.h(32): warning C4091: “typedef ”: 没有声明变量时忽略“v”的左侧
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\memory.h(44): warning C4091: “typedef ”: 没有声明变量时忽略“function”的左侧
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\equall.cpp(76): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\equall.cpp(77): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\equall.cpp(81): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\equall.cpp(87): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\equall.cpp(47): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\equall.cpp(59): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\equall.cpp(91): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+  define.cpp
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\memory.h(17): warning C4091: “typedef ”: 没有声明变量时忽略“pro”的左侧
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\memory.h(32): warning C4091: “typedef ”: 没有声明变量时忽略“v”的左侧
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\memory.h(44): warning C4091: “typedef ”: 没有声明变量时忽略“function”的左侧
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\define.cpp(21): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\define.cpp(62): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\define.cpp(102): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\define.cpp(118): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+  Aluu.cpp
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\memory.h(17): warning C4091: “typedef ”: 没有声明变量时忽略“pro”的左侧
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\memory.h(32): warning C4091: “typedef ”: 没有声明变量时忽略“v”的左侧
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\memory.h(44): warning C4091: “typedef ”: 没有声明变量时忽略“function”的左侧
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\aluu.cpp(12): warning C4101: “i”: 未引用的局部变量
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\aluu.cpp(11): warning C4101: “d”: 未引用的局部变量
+  正在生成代码...
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\aluu.cpp(59): warning C4715: “Aluu”: 不是所有的控件路径都返回值
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\fun.cpp(270): warning C4715: “Fun”: 不是所有的控件路径都返回值
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\logicc.cpp(25): warning C4715: “Logicc”: 不是所有的控件路径都返回值
+c:\users\万珂嘉\documents\tencent files\372936540\filerecv\interface\interface\min-c_code1\min-c_code1\ret.cpp(68): warning C4715: “Ret”: 不是所有的控件路径都返回值
+  min-c_code1.vcxproj -> C:\Users\万珂嘉\Documents\Tencent Files\372936540\FileRecv\interface\interface\min-c_code1\Debug\min-c_code1.exe
